@@ -3,7 +3,7 @@ onMemory-gSpan
 
 C++ source of Frequent subgraph pattern mining algorithm.
 <div align="center">
-    <img src="./img/overview.png", width=500>
+    <img src="./img/overview.png", width=800>
 </div>
 
 ## Description
