@@ -21,7 +21,7 @@ Ubunts 7.3.0
 - gcc 7.3.0
 
 ## Install
-`$ git clone --recurse-submodules git@github.com:se-z/gSpan.git`
+`$ git clone --recurse-submodules git@github.com:se-z/onMemory-gSpan.git`
 
 ## 3rd party library
 - [toml11](https://github.com/ToruNiina/toml11)
